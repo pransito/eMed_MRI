@@ -1,0 +1,9 @@
+dev/
+masks_AAL_paper/
+old/
+*.csv
+*.mat
+*.xls
+*.xlsx
+*.ini
+*.txt
